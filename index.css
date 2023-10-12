@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    width:20%;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 5rem;
+    align-items: center;
+}
+button{
+    background-color: orange;
+    width:50px;
+    border:0;
+    box-shadow: 10px 10px 15px rgb(184, 185, 187);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+
+}
+#counting{
+    color:black;
+    font-size: 18px;
+
+}
